@@ -1,0 +1,13 @@
+HTML:
+Titulo e parágrafo:
+<h1>Titulo</h1>
+<p>Paragrafo</p>
+
+Imagem:
+<img src="foto.png" alt=''Exemplo de Foto''>
+------------------------------------------------------------------
+CSS:
+h1{
+font-family: Arial;
+font-size: 20pt;
+color: blue;
